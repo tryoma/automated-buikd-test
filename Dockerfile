@@ -1,3 +1,2 @@
-FROM dockersamples/static-site
-ENV AUTHOR="RYOMA TAKUBO"
+FROM my_whalesay
 
